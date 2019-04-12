@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-style: normal; font-size: 12px; font-family: 'Overpass Mono', monospace; sans-serif;
+  margin: 2em; text-align: left;
+}
+
+body1 {
+  font-style: normal; font-size: 14px; font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em; text-align: right;
+}
+
+h1 {
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  font-style: bold;
+  color: #000000
+}
+h2 {
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  font-size: 20px;
+  font-style: bold;
+  color: #000000;
+}
+
+div {
+  width: 600px;
+  border: 2px solid none;
+  padding: 0px;
+  margin-top: 4px;
+  resize: both;
+  overflow: auto;
+}
